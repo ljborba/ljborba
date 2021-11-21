@@ -1,6 +1,6 @@
 # Oi, meu nome é Lucas, mais conhecido como Janing! :call_me_hand:	
 ## Abaixo você verá algumas informações ao meu respeito. :point_down:	
-### Tecnologias e Ferramentas 
+### Algumas tecnologias e ferramentas que eu utilizo:
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -11,7 +11,7 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 **Firebase**
-### Redes Sociais
+### Minhas Redes Sociais:
 * [Instagram](https://www.instagram.com/lucasjaning/)
 * [Linkedin](https://www.linkedin.com/in/lucas-janing-de-borba-0927aa194/)
 * [Email](mailto:janinglucas123@gmail.com)
