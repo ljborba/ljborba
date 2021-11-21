@@ -1,6 +1,6 @@
 # Oi, meu nome é Lucas, mais conhecido como Janing! :call_me_hand:	
 ## Abaixo você verá algumas informações ao meu respeito. :point_down:	
-### Tecnologias 
+### Tecnologias e Ferramentas 
 * ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 * ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 * ![photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
