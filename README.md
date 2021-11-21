@@ -14,4 +14,4 @@
 ### Redes Sociais
 * [Instagram](https://www.instagram.com/lucasjaning/)
 * [Linkedin](https://www.linkedin.com/in/lucas-janing-de-borba-0927aa194/)
-* [Email](janinglucas123@gmail.com)
+* [Email](janinglucas123@gmail.com:mailto)
