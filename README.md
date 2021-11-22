@@ -15,3 +15,4 @@
 * [Instagram](https://www.instagram.com/lucasjaning/)
 * [Linkedin](https://www.linkedin.com/in/lucas-janing-de-borba-0927aa194/)
 * [Email](mailto:janinglucas123@gmail.com)
+* [Discord](https://discord.gg/HTaPcqNTMA)
