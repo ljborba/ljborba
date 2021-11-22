@@ -1,6 +1,6 @@
-<h1>Oi, meu nome é Lucas, mais conhecido como Janing!</h1>
+<h1>Oi, meu nome é Lucas, mais conhecido como Janing!:call_me_hand:</h1>
 
-<h2>Abaixo você verá algumas informações ao meu respeito.</h2>
+<h2>Abaixo você verá algumas informações ao meu respeito.:point_down:</h2>
 
 <h3>Algumas tecnologias e ferramentas que eu utilizo:</h3>
 
