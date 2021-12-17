@@ -42,4 +42,5 @@
 </div>
 
 <h3>Projetos no ar:</h3>
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b49d4264-f697-4168-8fac-b34356dd1f42/deploy-status)](https://app.netlify.com/sites/promobelocao/deploys)
