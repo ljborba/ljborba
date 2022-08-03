@@ -12,7 +12,7 @@
 
 </div>
 
-<h3>Minhas Redes Sociais:</h3>
+<h3>Você me encontra no</h3>
 
 <div style="display: inline-block">
   
