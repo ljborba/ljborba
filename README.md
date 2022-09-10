@@ -2,7 +2,7 @@
 
 <h2>Abaixo você verá algumas informações ao meu respeito.:point_down:</h2>
 
-<h3>Algumas tecnologias e ferramentas que eu utilizo:</h3>
+<h3>Algumas tecnologias que utilizo:</h3>
 
 <div style="display: inline-block">
   
